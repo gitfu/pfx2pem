@@ -6,7 +6,12 @@ Convert pfx files to "all in one" pem files.
 
 
 
-* To said author, **we salute you. 
+* To said author, 
+### we salute you. 
 
-### If you're wrestling with authentication via pfx cert, 
-### try this.
+#### If you're wrestling with authentication via pfx cert, 
+#### try this.
+```
+sh pfx2pem.sh your.pfx
+# output is cert.pem
+```
