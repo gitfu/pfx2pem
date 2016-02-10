@@ -6,7 +6,7 @@ Convert pfx files to "all in one" pem files.
 
 
 
-* To said author, we salute you. 
+* To said author, **we salute you. 
 
 ### If you're wrestling with authentication via pfx cert, 
-try this.
+### try this.
